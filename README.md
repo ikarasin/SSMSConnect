@@ -4,8 +4,8 @@ SSMS plugin for automatic connection to pre-defined servers on startup
 
 Contents:
 
--SSMS v18 source code (VS 2022 VSIX project) and installation folder
--SSMS v19 source code (VS 2022 VSIX project) and installation folder
+- SSMS v18 source code (VS 2022 VSIX project) and installation folder
+- SSMS v19 source code (VS 2022 VSIX project) and installation folder
 
 References for SSMS v18 project:
 
